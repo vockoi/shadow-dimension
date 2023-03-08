@@ -13,11 +13,11 @@ and defeat Navec & his demons in the Over Under. . . ”*
 Shadow Dimension is a fantasy role-playing game coded in Java consisting of two levels.
 
 ### Level 0
-
+![Level 0 screenshot](https://github.com/vockoi/shadow-dimension/blob/main/level0.png)
 > Reach the portal to win while avoiding the sinkholes!
 
 ### Level 1
-
+![Level 1 screenshot](https://github.com/vockoi/shadow-dimension/blob/main/level1.png)
 > Defeat Navec while avoiding the sinkholes and the demon's fireballs! In this level, you can adjust difficulty by controlling enemy speed.
 
 ## 🕹️ Controls
